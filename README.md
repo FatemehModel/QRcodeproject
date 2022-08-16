@@ -16,13 +16,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.qr-code-component-main\images\Screenshot.png)
+![](.C:\Users\Admin\Documents\qr-code-component-main\images\Screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://fatemehmodel.github.io/QRcodeproject/)
+- Live Site URL: [Add live site URL here](https://fatemehmodel.github.io/QRcodeproject/)
 
 
 ### Built with
